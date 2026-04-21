@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #f5f6fa;
+  --main_1: #2d388b;
+  --main_2: #3d3d3d;
+  --white: #ffffff;
+  --stroke: #bac7df;
+  --h3-font-size: 40px;
+  --h4-font-size: 32px;
+  --h5-font-size: 24px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Atkinson Hyperlegible", sans-serif;
+  background-color: var(--bg);
+  color: var(--main_2);
+}
