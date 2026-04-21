@@ -126,7 +126,7 @@ export default function App() {
             </div>
             <div className="flex gap-2">
               <button className="bg-[#2d388b] text-white font-['Atkinson_Hyperlegible',sans-serif] text-lg leading-[25.6px] px-6 py-3 rounded-lg hover:bg-[#232e73] transition-colors">
-                Ankelden
+                Anmelden
               </button>
               <button className="border-[1.5px] border-[#2d388b] text-[#2d388b] font-['Atkinson_Hyperlegible',sans-serif] text-lg leading-[25.6px] px-6 py-3 rounded-lg hover:bg-[#2d388b]/5 transition-colors">
                 Registrieren
